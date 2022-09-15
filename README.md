@@ -3,7 +3,7 @@
 # About
 This is the CIG Resources GitHub Page for finding resources that get posted. Keep in mind, everything is still a work in progress!
 
-#[https://CIGResources.github.io]
+#[https://CIGResources.github.io] Click Here
 
 <!--
 **CIGResources/CIGResources** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
